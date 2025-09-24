@@ -1,0 +1,101 @@
+SessionID,UserID,Platform,Genre,Title,WatchDate,DurationMinutes,Rating,Completed
+SID-1000,U-4,Disney+,Action,Movie/Show 16,2024-01-01,174,3,No
+SID-1001,U-1,Apple TV+,Romance,Movie/Show 17,2024-01-02,73,1,Yes
+SID-1002,U-9,Apple TV+,Romance,Movie/Show 30,2024-01-03,107,4,No
+SID-1003,U-8,Prime Video,Action,Movie/Show 28,2024-01-04,72,1,No
+SID-1004,U-8,Apple TV+,Drama,Movie/Show 17,2024-01-05,87,5,Yes
+SID-1005,U-5,HBO Max,Action,Movie/Show 6,2024-01-06,149,5,No
+SID-1006,U-4,Apple TV+,Action,Movie/Show 2,2024-01-07,145,2,No
+SID-1007,U-18,HBO Max,Comedy,Movie/Show 17,2024-01-08,84,3,Yes
+SID-1008,U-3,Prime Video,Action,Movie/Show 3,2024-01-09,33,4,No
+SID-1009,U-19,Disney+,Sci-Fi,Movie/Show 28,2024-01-10,43,1,Yes
+SID-1010,U-14,Disney+,Drama,Movie/Show 6,2024-01-11,128,3,No
+SID-1011,U-2,Apple TV+,Comedy,Movie/Show 3,2024-01-12,90,5,No
+SID-1012,U-1,HBO Max,Romance,Movie/Show 20,2024-01-13,31,3,No
+SID-1013,U-3,Netflix,Documentary,Movie/Show 3,2024-01-14,20,1,Yes
+SID-1014,U-7,Netflix,Drama,Movie/Show 22,2024-01-15,105,3,Yes
+SID-1015,U-8,Netflix,Sci-Fi,Movie/Show 28,2024-01-16,53,5,Yes
+SID-1016,U-17,Disney+,Drama,Movie/Show 8,2024-01-17,87,3,Yes
+SID-1017,U-20,Disney+,Romance,Movie/Show 13,2024-01-18,61,4,No
+SID-1018,U-1,HBO Max,Sci-Fi,Movie/Show 4,2024-01-19,133,3,Yes
+SID-1019,U-18,Apple TV+,Sci-Fi,Movie/Show 29,2024-01-20,161,4,Yes
+SID-1020,U-7,Netflix,Documentary,Movie/Show 19,2024-01-21,129,3,Yes
+SID-1021,U-18,HBO Max,Drama,Movie/Show 8,2024-01-22,163,5,No
+SID-1022,U-14,HBO Max,Documentary,Movie/Show 19,2024-01-23,22,2,No
+SID-1023,U-8,Apple TV+,Documentary,Movie/Show 20,2024-01-24,48,2,No
+SID-1024,U-15,HBO Max,Drama,Movie/Show 2,2024-01-25,39,4,No
+SID-1025,U-19,Apple TV+,Action,Movie/Show 20,2024-01-26,58,4,No
+SID-1026,U-9,Prime Video,Action,Movie/Show 3,2024-01-27,159,2,Yes
+SID-1027,U-1,Apple TV+,Romance,Movie/Show 14,2024-01-28,29,5,Yes
+SID-1028,U-6,Netflix,Documentary,Movie/Show 22,2024-01-29,114,5,No
+SID-1029,U-14,Netflix,Comedy,Movie/Show 19,2024-01-30,169,3,No
+SID-1030,U-11,Apple TV+,Documentary,Movie/Show 19,2024-01-31,161,4,Yes
+SID-1031,U-9,Prime Video,Documentary,Movie/Show 17,2024-02-01,57,5,No
+SID-1032,U-5,Prime Video,Documentary,Movie/Show 11,2024-02-02,130,1,No
+SID-1033,U-7,Netflix,Romance,Movie/Show 30,2024-02-03,52,3,Yes
+SID-1034,U-11,Prime Video,Action,Movie/Show 9,2024-02-04,30,3,No
+SID-1035,U-4,HBO Max,Romance,Movie/Show 7,2024-02-05,98,2,No
+SID-1036,U-3,Disney+,Romance,Movie/Show 22,2024-02-06,113,4,No
+SID-1037,U-13,HBO Max,Romance,Movie/Show 23,2024-02-07,30,5,No
+SID-1038,U-4,Netflix,Action,Movie/Show 11,2024-02-08,111,5,Yes
+SID-1039,U-12,Prime Video,Action,Movie/Show 8,2024-02-09,73,3,No
+SID-1040,U-12,Apple TV+,Documentary,Movie/Show 9,2024-02-10,83,4,Yes
+SID-1041,U-20,Disney+,Romance,Movie/Show 13,2024-02-11,46,4,No
+SID-1042,U-9,Apple TV+,Comedy,Movie/Show 5,2024-02-12,110,4,No
+SID-1043,U-2,Netflix,Action,Movie/Show 22,2024-02-13,163,2,No
+SID-1044,U-15,Prime Video,Drama,Movie/Show 21,2024-02-14,124,5,Yes
+SID-1045,U-18,Apple TV+,Drama,Movie/Show 10,2024-02-15,178,4,No
+SID-1046,U-4,Apple TV+,Drama,Movie/Show 15,2024-02-16,59,2,No
+SID-1047,U-13,Disney+,Sci-Fi,Movie/Show 11,2024-02-17,80,1,No
+SID-1048,U-3,Disney+,Documentary,Movie/Show 30,2024-02-18,61,3,Yes
+SID-1049,U-18,Prime Video,Drama,Movie/Show 25,2024-02-19,65,5,No
+SID-1050,U-10,Disney+,Documentary,Movie/Show 30,2024-02-20,125,5,Yes
+SID-1051,U-20,Apple TV+,Drama,Movie/Show 3,2024-02-21,26,3,Yes
+SID-1052,U-12,Apple TV+,Comedy,Movie/Show 1,2024-02-22,65,1,No
+SID-1053,U-19,Netflix,Documentary,Movie/Show 15,2024-02-23,105,2,Yes
+SID-1054,U-7,Apple TV+,Drama,Movie/Show 20,2024-02-24,125,3,Yes
+SID-1055,U-3,Prime Video,Action,Movie/Show 19,2024-02-25,83,2,No
+SID-1056,U-2,HBO Max,Documentary,Movie/Show 4,2024-02-26,88,2,Yes
+SID-1057,U-8,Netflix,Sci-Fi,Movie/Show 3,2024-02-27,60,2,No
+SID-1058,U-10,Netflix,Action,Movie/Show 18,2024-02-28,47,1,Yes
+SID-1059,U-3,Prime Video,Action,Movie/Show 7,2024-02-29,117,1,Yes
+SID-1060,U-8,Prime Video,Romance,Movie/Show 17,2024-03-01,29,2,No
+SID-1061,U-4,Disney+,Sci-Fi,Movie/Show 9,2024-03-02,140,4,No
+SID-1062,U-13,Netflix,Action,Movie/Show 5,2024-03-03,76,5,No
+SID-1063,U-9,Disney+,Action,Movie/Show 30,2024-03-04,71,1,Yes
+SID-1064,U-15,Apple TV+,Drama,Movie/Show 12,2024-03-05,137,4,No
+SID-1065,U-12,Netflix,Drama,Movie/Show 29,2024-03-06,109,4,No
+SID-1066,U-6,Netflix,Documentary,Movie/Show 3,2024-03-07,98,5,No
+SID-1067,U-12,HBO Max,Documentary,Movie/Show 29,2024-03-08,78,2,No
+SID-1068,U-12,Netflix,Documentary,Movie/Show 8,2024-03-09,77,4,No
+SID-1069,U-7,Apple TV+,Drama,Movie/Show 12,2024-03-10,26,4,No
+SID-1070,U-9,Disney+,Documentary,Movie/Show 10,2024-03-11,69,4,No
+SID-1071,U-3,Disney+,Action,Movie/Show 6,2024-03-12,122,2,Yes
+SID-1072,U-20,HBO Max,Drama,Movie/Show 15,2024-03-13,104,2,No
+SID-1073,U-6,Apple TV+,Documentary,Movie/Show 27,2024-03-14,91,1,Yes
+SID-1074,U-18,Disney+,Action,Movie/Show 18,2024-03-15,37,1,Yes
+SID-1075,U-8,Prime Video,Documentary,Movie/Show 23,2024-03-16,91,4,No
+SID-1076,U-6,Apple TV+,Comedy,Movie/Show 10,2024-03-17,109,2,Yes
+SID-1077,U-15,Apple TV+,Documentary,Movie/Show 20,2024-03-18,150,2,Yes
+SID-1078,U-13,HBO Max,Comedy,Movie/Show 26,2024-03-19,122,5,Yes
+SID-1079,U-9,Disney+,Documentary,Movie/Show 21,2024-03-20,157,4,Yes
+SID-1080,U-18,Apple TV+,Romance,Movie/Show 17,2024-03-21,104,1,Yes
+SID-1081,U-8,Disney+,Romance,Movie/Show 1,2024-03-22,27,5,Yes
+SID-1082,U-11,Prime Video,Sci-Fi,Movie/Show 22,2024-03-23,49,2,Yes
+SID-1083,U-2,HBO Max,Romance,Movie/Show 27,2024-03-24,86,1,Yes
+SID-1084,U-8,Prime Video,Romance,Movie/Show 18,2024-03-25,65,4,Yes
+SID-1085,U-2,HBO Max,Documentary,Movie/Show 10,2024-03-26,168,2,Yes
+SID-1086,U-11,Apple TV+,Drama,Movie/Show 30,2024-03-27,87,4,No
+SID-1087,U-13,HBO Max,Drama,Movie/Show 22,2024-03-28,29,5,Yes
+SID-1088,U-9,Netflix,Comedy,Movie/Show 4,2024-03-29,47,5,Yes
+SID-1089,U-3,Disney+,Drama,Movie/Show 29,2024-03-30,172,5,No
+SID-1090,U-7,Disney+,Action,Movie/Show 5,2024-03-31,131,3,No
+SID-1091,U-19,Netflix,Sci-Fi,Movie/Show 9,2024-04-01,108,4,No
+SID-1092,U-11,Prime Video,Romance,Movie/Show 4,2024-04-02,100,5,Yes
+SID-1093,U-7,Netflix,Sci-Fi,Movie/Show 29,2024-04-03,131,5,Yes
+SID-1094,U-16,Apple TV+,Action,Movie/Show 4,2024-04-04,175,4,Yes
+SID-1095,U-13,Apple TV+,Romance,Movie/Show 24,2024-04-05,150,5,No
+SID-1096,U-15,Disney+,Comedy,Movie/Show 18,2024-04-06,49,4,Yes
+SID-1097,U-5,Apple TV+,Action,Movie/Show 5,2024-04-07,118,2,Yes
+SID-1098,U-9,Disney+,Action,Movie/Show 9,2024-04-08,167,4,No
+SID-1099,U-5,Netflix,Sci-Fi,Movie/Show 10,2024-04-09,68,4,No
