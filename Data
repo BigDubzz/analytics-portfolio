@@ -1,1 +1,53 @@
+SUPERSTORE - randomly generated sample
 
+OrderID,OrderDate,CustomerID,CustomerName,Segment,Region,ProductCategory,ProductName,Quantity,Sales,Profit
+ORD-1000,2024-01-01,CUST-1,Customer 1,Consumer,East,Furniture,Product 1,1,50,10
+ORD-1001,2024-01-08,CUST-2,Customer 2,Corporate,West,Office Supplies,Product 2,2,85,13
+ORD-1002,2024-01-15,CUST-3,Customer 3,Home Office,Central,Technology,Product 3,3,120,16
+ORD-1003,2024-01-22,CUST-4,Customer 4,Consumer,South,Furniture,Product 4,4,110,19
+ORD-1004,2024-01-29,CUST-5,Customer 5,Corporate,East,Office Supplies,Product 5,5,145,30
+ORD-1005,2024-02-05,CUST-6,Customer 6,Consumer,West,Technology,Product 6,1,180,33
+ORD-1006,2024-02-12,CUST-7,Customer 7,Corporate,Central,Furniture,Product 7,2,170,36
+ORD-1007,2024-02-19,CUST-8,Customer 8,Home Office,South,Office Supplies,Product 8,3,205,4
+ORD-1008,2024-02-26,CUST-9,Customer 9,Consumer,East,Technology,Product 9,4,240,15
+ORD-1009,2024-03-04,CUST-10,Customer 10,Corporate,West,Furniture,Product 10,5,230,18
+ORD-1010,2024-03-11,CUST-1,Customer 1,Consumer,Central,Office Supplies,Product 11,1,65,21
+ORD-1011,2024-03-18,CUST-2,Customer 2,Corporate,South,Technology,Product 12,2,100,24
+ORD-1012,2024-03-25,CUST-3,Customer 3,Home Office,East,Furniture,Product 13,3,90,35
+ORD-1013,2024-04-01,CUST-4,Customer 4,Consumer,West,Office Supplies,Product 14,4,125,38
+ORD-1014,2024-04-08,CUST-5,Customer 5,Corporate,Central,Technology,Product 15,5,160,6
+ORD-1015,2024-04-15,CUST-6,Customer 6,Consumer,South,Furniture,Product 1,1,150,9
+ORD-1016,2024-04-22,CUST-7,Customer 7,Corporate,East,Office Supplies,Product 2,2,185,20
+ORD-1017,2024-04-29,CUST-8,Customer 8,Home Office,West,Technology,Product 3,3,220,23
+ORD-1018,2024-05-06,CUST-9,Customer 9,Consumer,Central,Furniture,Product 4,4,210,26
+ORD-1019,2024-05-13,CUST-10,Customer 10,Corporate,South,Office Supplies,Product 5,5,245,29
+ORD-1020,2024-05-20,CUST-1,Customer 1,Consumer,East,Technology,Product 6,1,80,40
+ORD-1021,2024-05-27,CUST-2,Customer 2,Corporate,West,Furniture,Product 7,2,70,8
+ORD-1022,2024-06-03,CUST-3,Customer 3,Home Office,Central,Office Supplies,Product 8,3,105,11
+ORD-1023,2024-06-10,CUST-4,Customer 4,Consumer,South,Technology,Product 9,4,140,14
+ORD-1024,2024-06-17,CUST-5,Customer 5,Corporate,East,Furniture,Product 10,5,130,25
+ORD-1025,2024-06-24,CUST-6,Customer 6,Consumer,West,Office Supplies,Product 11,1,165,28
+ORD-1026,2024-07-01,CUST-7,Customer 7,Corporate,Central,Technology,Product 12,2,200,31
+ORD-1027,2024-07-08,CUST-8,Customer 8,Home Office,South,Furniture,Product 13,3,190,34
+ORD-1028,2024-07-15,CUST-9,Customer 9,Consumer,East,Office Supplies,Product 14,4,225,10
+ORD-1029,2024-07-22,CUST-10,Customer 10,Corporate,West,Technology,Product 15,5,260,13
+ORD-1030,2024-07-29,CUST-1,Customer 1,Consumer,Central,Furniture,Product 1,1,50,16
+ORD-1031,2024-08-05,CUST-2,Customer 2,Corporate,South,Office Supplies,Product 2,2,85,19
+ORD-1032,2024-08-12,CUST-3,Customer 3,Home Office,East,Technology,Product 3,3,120,30
+ORD-1033,2024-08-19,CUST-4,Customer 4,Consumer,West,Furniture,Product 4,4,110,33
+ORD-1034,2024-08-26,CUST-5,Customer 5,Corporate,Central,Office Supplies,Product 5,5,145,36
+ORD-1035,2024-09-02,CUST-6,Customer 6,Consumer,South,Technology,Product 6,1,180,4
+ORD-1036,2024-09-09,CUST-7,Customer 7,Corporate,East,Furniture,Product 7,2,170,15
+ORD-1037,2024-09-16,CUST-8,Customer 8,Home Office,West,Office Supplies,Product 8,3,205,18
+ORD-1038,2024-09-23,CUST-9,Customer 9,Consumer,Central,Technology,Product 9,4,240,21
+ORD-1039,2024-09-30,CUST-10,Customer 10,Corporate,South,Furniture,Product 10,5,230,24
+ORD-1040,2024-10-07,CUST-1,Customer 1,Consumer,East,Office Supplies,Product 11,1,65,35
+ORD-1041,2024-10-14,CUST-2,Customer 2,Corporate,West,Technology,Product 12,2,100,38
+ORD-1042,2024-10-21,CUST-3,Customer 3,Home Office,Central,Furniture,Product 13,3,90,6
+ORD-1043,2024-10-28,CUST-4,Customer 4,Consumer,South,Office Supplies,Product 14,4,125,9
+ORD-1044,2024-11-04,CUST-5,Customer 5,Corporate,East,Technology,Product 15,5,160,20
+ORD-1045,2024-11-11,CUST-6,Customer 6,Consumer,West,Furniture,Product 1,1,150,23
+ORD-1046,2024-11-18,CUST-7,Customer 7,Corporate,Central,Office Supplies,Product 2,2,185,26
+ORD-1047,2024-11-25,CUST-8,Customer 8,Home Office,South,Technology,Product 3,3,220,29
+ORD-1048,2024-12-02,CUST-9,Customer 9,Consumer,East,Furniture,Product 4,4,210,40
+ORD-1049,2024-12-09,CUST-10,Customer 10,Corporate,West,Office Supplies,Product 5,5,245,8
