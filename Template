@@ -1,0 +1,24 @@
+## Project 01 — Retail Performance Dashboard (SQL + Power BI)
+
+## Business Problem
+To understand sales performance and customer behaviour.
+
+## Dataset
+Source: [insert where dataset is from]  
+Structure: fact table + dimension tables (to be built).
+
+## Data Model
+*(diagram coming later)*
+
+## Key Measures (planned)
+- Total Sales
+- Orders
+- Average Order Value
+- YoY %
+- Rolling 30D Sales
+
+## Findings
+*(to be filled after analysis)*
+
+## Next Steps
+Build DAX measures, publish dashboard, write case notes.
